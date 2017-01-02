@@ -1,0 +1,14 @@
+{
+  "port": 3005,
+  "api": {
+    "ENV": "PRD"
+  },
+  "email": {
+    "sender": "grady.rogers@bluecactus.io",
+    "receiver": "grady.rogers@bluecactus.io"
+  },
+  "AWS": {
+    "region": "us-west-2",
+    "ARN": "arn:aws:ses:us-west-2:702185106358:identity/grady.rogers@bluecactus.io"
+  }
+}
