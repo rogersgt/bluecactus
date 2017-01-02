@@ -1,0 +1,16 @@
+{
+  "port": 3005,
+  "api": {
+    "ENV": "DEV"
+  },
+  "email": {
+    "sender": "address@email.com",
+    "receiver": "address@email.com",
+    "accessKeyId": "SECRET_ACCESS_KEY_ID",
+    "secretAccessKey": "SECRET_ACCESS_KEY"
+  },
+  "AWS": {
+    "region": "aws-region",
+    "ARN": "AWS_SES_ARN"
+  }
+}
